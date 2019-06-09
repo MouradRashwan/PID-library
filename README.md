@@ -1,1 +1,2 @@
-# PID library written in C.
+# PID library
+PID library written in C.
