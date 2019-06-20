@@ -9,7 +9,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-#include "PID_driver.h"
+#include "PID.h"
 
 void PID_init(PIDobject_t *ptPIDobject, PIDmode_t tPIDmode, PIDgain_t tPIDgain,
               PIDoutBound_t tPIDoutBound)
